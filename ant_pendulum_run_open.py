@@ -1,6 +1,6 @@
 import itertools
 import numpy as np
-from ant_pendulum import *
+from ant_pendulum_open import *
 
 
 def save_run(data_cargo, ant_state, ant_phi, filename):
